@@ -357,7 +357,7 @@ This includes anti-forgery protection as well as suppressing login redirects on 
 
 ### Call the APIs from JavaScript
 
-Back in *site.js*, implement the two API button event handlers as such:
+Back in *app.js*, implement the two API button event handlers as such:
 
 ```js
 async function localApi() {
